@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### Following command were used to get project started
+
+> npx create-react-app front-end-template<br>
+> npm install react-router-dom
+> <br>
+
+#### Add entry to package.json
+
+> "proxy": "localhost:8080",
+
 ## Available Scripts
 
 In the project directory, you can run:
