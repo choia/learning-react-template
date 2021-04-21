@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Default front end template for learning react
 
 #### Following command were used to get project started
 
@@ -8,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > npm install react-router-dom
 > <br>
 
-#### Add entry to package.json
+### Add entry to package.json
 
 > "proxy": "localhost:8080",
 
