@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 const routes = [];
 
-export const Routes = () => {
+const Routes = () => {
   <Router>
     <Switch>
       {routes.map((route, index) => {
@@ -17,3 +17,5 @@ export const Routes = () => {
     </Switch>
   </Router>
 }
+
+export default Routes;
